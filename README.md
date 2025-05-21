@@ -1,6 +1,6 @@
 # Sprint4-IOT
 
-#Link Apresentação SPrint4: https://youtu.be/Y1MsfHrPl2k
+# Link Apresentação SPrint4: https://youtu.be/Y1MsfHrPl2k
 # **Projeto de IA para Análise de Imagens Odontológicas**
 
 ## **Visão Geral**
@@ -50,4 +50,4 @@ Este projeto utiliza Machine Learning e Visão Computacional para analisar image
 - Refinar a integração entre as diversas disciplinas do projeto.
 - Disponibilizar o código como **open-source** para colaboração.
 
-- #Link Apresentação passada com teste: https://youtu.be/5ik2Sh-9aCM
+  # Link Apresentação passada com teste: https://youtu.be/5ik2Sh-9aCM
