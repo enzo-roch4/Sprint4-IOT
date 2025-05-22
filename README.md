@@ -1,6 +1,11 @@
 # Sprint4-IOT
 
-# Link Apresentação SPrint4: https://youtu.be/Y1MsfHrPl2k
+# Link Apresentação Sprint4: https://youtu.be/Y1MsfHrPl2k
+### Membros do Grupo
+- **Enzo Franco Rocha** - RM: 553643
+- **João Pedro Pereira** - RM: 553698
+- **Herbert Santos de Sousa** - RM: 553227
+  
 # **Projeto de IA para Análise de Imagens Odontológicas**
 
 ## **Visão Geral**
